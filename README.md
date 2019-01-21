@@ -1,7 +1,3 @@
----
-description: Introducing Gitbook
----
-
 # Introduction
 
 Här är en snygg skiss:
