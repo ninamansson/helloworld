@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Test med bild](test-med-bild.md)
+* [Nina test](nina-test.md)
 
 ## Hälsningar
 
